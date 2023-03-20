@@ -1,1 +1,7 @@
-/*  your css code here. If applicable */
+.container {
+	background-color:#ADD8E6;
+	display: inline-block;
+	color:purple;
+	padding:100px;
+	border:2px solid black;
+}
