@@ -1,10 +1,11 @@
 div{
-	border:2px solid black;
-	
-} 
-.container {
-	background-color:#ADD8E6;
-	display: inline-block;
 	color:purple;
+} 
+div.container {
+
+	border:2px solid black;
 	padding:100px;
+	display: inline-block;
+	
+	background-color:#ADD8E6;
 }
